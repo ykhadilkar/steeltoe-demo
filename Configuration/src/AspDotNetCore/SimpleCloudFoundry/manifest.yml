@@ -5,3 +5,4 @@ applications:
     ASPNETCORE_ENVIRONMENT: development
   services:
    - MyConfigServer
+  random-route: true
